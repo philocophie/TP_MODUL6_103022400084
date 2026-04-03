@@ -1,0 +1,15 @@
+C:\Users\Sofia\Downloads\KPL\TP_MODUL6_103022400084\bin\Debug\net10.0\TP_MODUL6_103022400084.exe
+C:\Users\Sofia\Downloads\KPL\TP_MODUL6_103022400084\bin\Debug\net10.0\TP_MODUL6_103022400084.deps.json
+C:\Users\Sofia\Downloads\KPL\TP_MODUL6_103022400084\bin\Debug\net10.0\TP_MODUL6_103022400084.runtimeconfig.json
+C:\Users\Sofia\Downloads\KPL\TP_MODUL6_103022400084\bin\Debug\net10.0\TP_MODUL6_103022400084.dll
+C:\Users\Sofia\Downloads\KPL\TP_MODUL6_103022400084\bin\Debug\net10.0\TP_MODUL6_103022400084.pdb
+C:\Users\Sofia\Downloads\KPL\TP_MODUL6_103022400084\obj\Debug\net10.0\TP_MODUL6_103022400084.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofia\Downloads\KPL\TP_MODUL6_103022400084\obj\Debug\net10.0\TP_MODUL6_103022400084.AssemblyInfoInputs.cache
+C:\Users\Sofia\Downloads\KPL\TP_MODUL6_103022400084\obj\Debug\net10.0\TP_MODUL6_103022400084.AssemblyInfo.cs
+C:\Users\Sofia\Downloads\KPL\TP_MODUL6_103022400084\obj\Debug\net10.0\TP_MODUL6_103022400084.csproj.CoreCompileInputs.cache
+C:\Users\Sofia\Downloads\KPL\TP_MODUL6_103022400084\obj\Debug\net10.0\TP_MODUL6_103022400084.sourcelink.json
+C:\Users\Sofia\Downloads\KPL\TP_MODUL6_103022400084\obj\Debug\net10.0\TP_MODUL6_103022400084.dll
+C:\Users\Sofia\Downloads\KPL\TP_MODUL6_103022400084\obj\Debug\net10.0\refint\TP_MODUL6_103022400084.dll
+C:\Users\Sofia\Downloads\KPL\TP_MODUL6_103022400084\obj\Debug\net10.0\TP_MODUL6_103022400084.pdb
+C:\Users\Sofia\Downloads\KPL\TP_MODUL6_103022400084\obj\Debug\net10.0\TP_MODUL6_103022400084.genruntimeconfig.cache
+C:\Users\Sofia\Downloads\KPL\TP_MODUL6_103022400084\obj\Debug\net10.0\ref\TP_MODUL6_103022400084.dll

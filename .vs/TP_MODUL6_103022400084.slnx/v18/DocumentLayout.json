@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D8BBAB2D-0085-309A-CE44-6D3780F77918}|TP_MODUL6_103022400084.csproj|c:\\users\\sofia\\downloads\\kpl\\tp_modul6_103022400084\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8BBAB2D-0085-309A-CE44-6D3780F77918}|TP_MODUL6_103022400084.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8BBAB2D-0085-309A-CE44-6D3780F77918}|TP_MODUL6_103022400084.csproj|c:\\users\\sofia\\downloads\\kpl\\tp_modul6_103022400084\\sayamusictrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8BBAB2D-0085-309A-CE44-6D3780F77918}|TP_MODUL6_103022400084.csproj|solutionrelative:sayamusictrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SayaMusicTrack.cs",
+              "DocumentMoniker": "C:\\Users\\Sofia\\Downloads\\KPL\\TP_MODUL6_103022400084\\SayaMusicTrack.cs",
+              "RelativeDocumentMoniker": "SayaMusicTrack.cs",
+              "ToolTip": "C:\\Users\\Sofia\\Downloads\\KPL\\TP_MODUL6_103022400084\\SayaMusicTrack.cs",
+              "RelativeToolTip": "SayaMusicTrack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T21:25:45.353Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Sofia\\Downloads\\KPL\\TP_MODUL6_103022400084\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-03T21:11:14.722Z",
               "EditorCaption": ""

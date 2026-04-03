@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Text;
 
 namespace TP_MODUL6_103022400084
@@ -18,7 +19,23 @@ namespace TP_MODUL6_103022400084
         }
         public void IncreasePlayCount(int count)
         {
-            playCount += count;
+            Debug.Assert(title != null, "Title tidak boleh null");
+            if (title != null)
+            {
+                Debug.Assert(title.Length <= 100, "Title maksimal 100 karakter");
+            }
+            Debug.Assert(count <= 10000000, "Input terlalu besar");
+            try
+            {
+                checked
+                {
+                    playCount += count;
+                }
+            }
+            catch (OverflowException)
+            {
+                Console.WriteLine("Terjadi overflow");
+            }
         }
         public void PrintTrackDetails()
         {
